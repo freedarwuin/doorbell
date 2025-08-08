@@ -29,7 +29,7 @@ sudo apt install mpg321 python3-rpi.gpio
 ## 📂 Estructura de archivos
 ```
 /home/freedarwuin/doorbell/audio/   # Carpeta con los sonidos .mp3
-timbre.py                           # Script principal
+app.py                              # Script principal
 ```
 
 ---
