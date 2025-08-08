@@ -46,7 +46,7 @@ PIN_NUMBER = 12                                        # Pin físico usado para 
 ## ▶ Ejecución
 Para iniciar el timbre:
 ```bash
-python3 timbre.py
+python3 app.py
 ```
 El script quedará en ejecución, esperando que se presione el botón.
 
